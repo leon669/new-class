@@ -1,1 +1,1 @@
-# new-class
+# new-class test
